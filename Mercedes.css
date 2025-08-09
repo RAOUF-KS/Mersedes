@@ -728,27 +728,27 @@ font-size:250%;
 
 
 
-      @media (max-width: 425px){
+      @media (max-width: 393px){
        
 
           .imoj{
-             margin-left: 8em;
+             margin-left: 7em;
              margin-top: 0.5em;
               width: 40px;
 
           }
         .LOGO{
-              margin-left: 5em;
+              margin-left: 4.5em;
               width: 40px;
          }
          .navbar  { 
             font-size: 5px;
             gap: 1rem;
-            margin-left: -56em;
+            margin-left: -53em;
 
          }
          .navbar a{
-            font-size: 15px;
+            font-size: 14px;
          }
 
          .slide{
@@ -768,13 +768,13 @@ font-size:250%;
          }
 
          .container video{
-          min-width: 320px;
-          max-width: 425px;
+          min-width: 200px;
+          max-width: 393px;
          }
 
          .containerA{
           display: block;
-          margin-left: -4em;
+          margin-left: -5em;
          }
 
           .containerA .container1 img{
@@ -792,7 +792,7 @@ font-size:250%;
          
          .containerB{
           display: block;
-          margin-left: -4em;
+          margin-left: -5em;
          }
 
           .containerB .container1 img{
@@ -810,7 +810,7 @@ font-size:250%;
          }
          .containerC{
           display: block;
-          margin-left: -4em;
+          margin-left: -5em;
          }
 
           .containerC .container1 img{
@@ -867,7 +867,7 @@ font-size:150%;
 
     .containerD{
           display: block;
-          margin-left: -4em;
+          margin-left: -5em;
          }
 
           .containerD .container1 img{
@@ -915,7 +915,7 @@ font-size:120%;
 
   .containerE{
           display: block;
-          margin-left: -4em;
+          margin-left: -5em;
          }
 
           .containerE .container1 img{
@@ -934,7 +934,7 @@ font-size:120%;
 
            .containerF{
           display: block;
-          margin-left: -4em;
+          margin-left: -5em;
          }
 
           .containerF .container1 img{
