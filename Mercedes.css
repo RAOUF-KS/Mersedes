@@ -728,32 +728,32 @@ font-size:250%;
 
 
 
-      @media (max-width: 375px){
+      @media (max-width: 425px){
        
 
           .imoj{
-             margin-left: 6em;
+             margin-left: 8em;
              margin-top: 0.5em;
               width: 40px;
 
           }
         .LOGO{
-              margin-left: 3.5em;
+              margin-left: 5em;
               width: 40px;
          }
          .navbar  { 
             font-size: 5px;
             gap: 1rem;
-            margin-left: -51em;
+            margin-left: -56em;
 
          }
          .navbar a{
-            font-size: 13.5px;
+            font-size: 15px;
          }
 
          .slide{
-         margin-top: 33em;
-          height: 18.8em;
+         margin-top: 31em;
+          height: 21em;
           border-radius: 0px 50px 50px 0px;
          }
 
@@ -768,8 +768,8 @@ font-size:250%;
          }
 
          .container video{
-          min-width: 200px;
-          max-width: 375px;
+          min-width: 320px;
+          max-width: 425px;
          }
 
          .containerA{
@@ -782,12 +782,12 @@ font-size:250%;
           height: 300px;
          border-radius: 15%;
          transition: 0.9s ease;
-         margin-left: 3em;
+         margin-left: 4.5em;
          }
 
          .containerA button{
             margin-bottom: 2em;
-            margin-left: 1.6em;
+            margin-left: 2.8em;
          }
          
          .containerB{
@@ -800,12 +800,12 @@ font-size:250%;
           height: 300px;
          border-radius: 15%;
          transition: 0.9s ease;
-         margin-left: 3em;
+         margin-left: 4.5em;
          }
 
          .containerB button{
             margin-bottom: 2em;
-                        margin-left: 1.6em;
+            margin-left: 2.8em;
 
          }
          .containerC{
@@ -818,12 +818,13 @@ font-size:250%;
           height: 300px;
          border-radius: 15%;
          transition: 0.9s ease;
-         margin-left: 3em;
+                  margin-left: 4.5em;
+
          }
 
          .containerC button{
             margin-bottom: 2em;
-                        margin-left: 1.6em;
+            margin-left: 2.8em;
 
          }
 
@@ -837,9 +838,9 @@ font-size:250%;
 }
 
  .container2 img{
-  min-width: 200px;
-    max-width: 375px; 
-    max-height:375px;
+  min-width: 320px;
+    max-width: 425px;
+    max-height:425px;
   }
 
       .container2:hover img{
@@ -874,12 +875,12 @@ font-size:150%;
           height: 300px;
          border-radius: 15%;
          transition: 0.9s ease;
-         margin-left: 3em;
+         margin-left: 4.5em;
          }
 
          .containerD button{
             margin-bottom: 2em;
-                        margin-left: 1.6em;
+            margin-left: 2.8em;
 
          }
   
@@ -902,8 +903,8 @@ font-size:150%;
 
 
 .pr3{
-    margin-top: -60%;
-    margin-left: -5%;
+    margin-top: -68%;
+    margin-left: 0%;
   color: #0d354d;
 font-family: Roboto Slab;
   font-weight: 400;
@@ -922,12 +923,12 @@ font-size:120%;
           height: 300px;
          border-radius: 15%;
          transition: 0.9s ease;
-         margin-left: 3em;
+         margin-left: 4.5em;
          }
 
          .containerE button{
             margin-bottom: 2em;
-                        margin-left: 1.6em;
+            margin-left: 2.8em;
 
          }
 
@@ -941,12 +942,12 @@ font-size:120%;
           height: 300px;
          border-radius: 15%;
          transition: 0.9s ease;
-         margin-left: 3em;
+         margin-left: 4.5em;
          }
          
          .containerF button{
             margin-bottom: 2em;
-                        margin-left: 1.6em;
+            margin-left: 2.8em;
 
          }
 
