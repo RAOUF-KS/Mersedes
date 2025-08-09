@@ -58,11 +58,12 @@
 
  .LOGO{
   width: 50px;
-  margin-left: 25em;
+  margin-left: 31em;
  }
 
  
  .imoj{
+    margin-left: 33em;
   width: 40px;
   cursor: pointer;
   animation: mymove 10s infinite ;
@@ -742,18 +743,18 @@ font-size:250%;
               width: 40px;
          }
          .navbar  { 
-            font-size: 5px;
+            font-size: 10px;
             gap: 1rem;
-            margin-left: -53em;
+            margin-left: -28em;
 
          }
          .navbar a{
-            font-size: 14px;
+            font-size: 14.5px;
          }
 
          .slide{
-         margin-top: 31em;
-          height: 21em;
+         margin-top: 31.8em;
+          height: 20em;
           border-radius: 0px 50px 50px 0px;
          }
 
@@ -852,13 +853,13 @@ font-size:250%;
 
 .text2{
   position: absolute;
-  top: 70%;
-  left: 40%;
-  transform: translate(-50%,-50%);
+  top: 60%;
+  left: 53%;
 }
   
 .pr1{
   color: #000000;
+  margin-left:-4em ;
 font-family: Roboto Slab;
   font-weight: 350;
 font-size:150%;
@@ -892,7 +893,7 @@ font-size:150%;
 
        .text3{
       position: relative;
-      margin:-15% 0 -22% 10% ;
+      margin: -15% 0 -22% 15% ;
         }
              .text3 p{
             color: #ff5100;
@@ -903,14 +904,13 @@ font-size:150%;
 
 
 .pr3{
-    margin-top: -68%;
-    margin-left: 0%;
+    margin-top: -75%;
+    margin-left: -20%;
   color: #0d354d;
 font-family: Roboto Slab;
-  font-weight: 400;
+  font-weight: 500;
 font-size:120%;
 }
-
 
 
   .containerE{
@@ -950,6 +950,32 @@ font-size:120%;
             margin-left: 2.8em;
 
          }
+
+         
+.containerE .tx h1{
+  font-size: x-large;
+  margin-left: 1em;
+}
+
+ .tx h1{
+  font-size: x-large;
+
+}
+.containerB .tx h1{
+  font-size: x-large;
+  margin-left: 1em;
+}
+.containerC .tx h1{
+  font-size: x-large;
+  margin-left: 1em;
+}
+.containerF .tx h1{
+  font-size: x-large;
+  margin-left: 1em;
+}
+
+
+
 
          }
          
